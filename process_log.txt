@@ -1,0 +1,59 @@
+2025-12-24 18:55:20,009 - bladeprocess - INFO - 开始使用BladeAnalyzer分析模型...
+2025-12-24 18:55:24,779 - bladeprocess - INFO - 叶片几何分析完成，耗时: 1.92秒
+2025-12-24 18:55:26,026 - bladeprocess - INFO - 翼型生成至: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp，耗时: 1.25秒，生成 12 个，跳过 0 个
+2025-12-24 18:55:26,026 - bladeprocess.xfoil - INFO - 成功计算雷诺数
+2025-12-24 18:55:26,026 - bladeprocess - INFO - 气动属性计算完成，耗时: 0.00秒
+2025-12-24 18:55:26,036 - bladeprocess.xfoil - INFO - Started processing section 1
+2025-12-24 18:55:26,045 - bladeprocess.xfoil - INFO - Started processing section 2
+2025-12-24 18:55:26,048 - bladeprocess.xfoil - INFO - Started processing section 3
+2025-12-24 18:55:26,056 - bladeprocess.xfoil - INFO - Started processing section 4
+2025-12-24 18:55:26,063 - bladeprocess.xfoil - INFO - Started processing section 5
+2025-12-24 18:55:26,073 - bladeprocess.xfoil - INFO - Started processing section 6
+2025-12-24 18:55:26,079 - bladeprocess.xfoil - INFO - Started processing section 7
+2025-12-24 18:55:26,084 - bladeprocess.xfoil - INFO - Started processing section 8
+2025-12-24 18:55:26,089 - bladeprocess.xfoil - INFO - Started processing section 9
+2025-12-24 18:55:26,093 - bladeprocess.xfoil - INFO - Started processing section 10
+2025-12-24 18:55:26,099 - bladeprocess.xfoil - INFO - Started processing section 11
+2025-12-24 18:55:26,104 - bladeprocess.xfoil - INFO - Started processing section 12
+2025-12-24 18:55:34,452 - bladeprocess.xfoil - INFO - Section 2: 158/161 converged.
+2025-12-24 18:55:35,859 - bladeprocess.xfoil - INFO - Section 4: 157/161 converged.
+2025-12-24 18:55:37,870 - bladeprocess.xfoil - INFO - Section 3: 155/161 converged.
+2025-12-24 18:55:38,776 - bladeprocess.xfoil - INFO - Section 6: 155/161 converged.
+2025-12-24 18:55:41,190 - bladeprocess.xfoil - INFO - Section 8: 152/161 converged.
+2025-12-24 18:55:41,893 - bladeprocess.xfoil - INFO - Section 5: 151/161 converged.
+2025-12-24 18:55:44,106 - bladeprocess.xfoil - INFO - Section 1: 149/161 converged.
+2025-12-24 18:55:51,648 - bladeprocess.xfoil - INFO - Section 10: 140/161 converged.
+2025-12-24 18:55:52,756 - bladeprocess.xfoil - INFO - Section 12: 140/161 converged.
+2025-12-24 18:55:56,877 - bladeprocess.xfoil - INFO - Section 9: 133/161 converged.
+2025-12-24 18:55:58,385 - bladeprocess.xfoil - INFO - Section 11: 131/161 converged.
+2025-12-24 18:55:58,687 - bladeprocess.xfoil - INFO - Section 7: 129/161 converged.
+2025-12-24 18:55:58,787 - bladeprocess - INFO - XFOIL分析完成，耗时: 32.76秒
+2025-12-24 18:55:58,812 - bladeprocess - INFO - 截面几何信息已保存至: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\section_geometry.txt
+2025-12-24 18:55:58,858 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section1
+2025-12-24 18:55:58,858 - bladeprocess - INFO - 截面1处理完成（插值后721条数据）
+2025-12-24 18:55:58,904 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section2
+2025-12-24 18:55:58,904 - bladeprocess - INFO - 截面2处理完成（插值后721条数据）
+2025-12-24 18:55:58,942 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section3
+2025-12-24 18:55:58,943 - bladeprocess - INFO - 截面3处理完成（插值后721条数据）
+2025-12-24 18:55:58,980 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section4
+2025-12-24 18:55:58,980 - bladeprocess - INFO - 截面4处理完成（插值后721条数据）
+2025-12-24 18:55:59,017 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section5
+2025-12-24 18:55:59,017 - bladeprocess - INFO - 截面5处理完成（插值后721条数据）
+2025-12-24 18:55:59,059 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section6
+2025-12-24 18:55:59,059 - bladeprocess - INFO - 截面6处理完成（插值后721条数据）
+2025-12-24 18:55:59,101 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section7
+2025-12-24 18:55:59,101 - bladeprocess - INFO - 截面7处理完成（插值后721条数据）
+2025-12-24 18:55:59,137 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section8
+2025-12-24 18:55:59,142 - bladeprocess - INFO - 截面8处理完成（插值后721条数据）
+2025-12-24 18:55:59,181 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section9
+2025-12-24 18:55:59,181 - bladeprocess - INFO - 截面9处理完成（插值后721条数据）
+2025-12-24 18:55:59,217 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section10
+2025-12-24 18:55:59,217 - bladeprocess - INFO - 截面10处理完成（插值后721条数据）
+2025-12-24 18:55:59,259 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section11
+2025-12-24 18:55:59,259 - bladeprocess - INFO - 截面11处理完成（插值后721条数据）
+2025-12-24 18:55:59,292 - bladeprocess - INFO - OpenFOAM格式文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoilProperties_section12
+2025-12-24 18:55:59,300 - bladeprocess - INFO - 截面12处理完成（插值后721条数据）
+2025-12-24 18:56:00,301 - bladeprocess - INFO - Excel结果文件已保存: d:\Aerocae\新建文件夹 (2)\致动线前处理\Temp\airfoil_results.xlsx
+2025-12-24 18:56:00,301 - bladeprocess - INFO - 攻角外推完成，耗时: 1.51秒
+2025-12-24 18:56:00,301 - bladeprocess - INFO - 分析完成！结果路径: d:\Aerocae\新建文件夹 (2)\致动线前处理
+2025-12-24 18:56:00,301 - bladeprocess - INFO - 日志文件: d:\Aerocae\新建文件夹 (2)\致动线前处理\process_log.txt
